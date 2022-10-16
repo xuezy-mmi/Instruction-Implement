@@ -11,7 +11,8 @@ This project is a homework in NUDT ACA.
 
 ## program
 add the number in memory address 0 and 1 to address 3
-load r1 #0
-load r2 #1
-add r3 r2 r1
-store r3 #3
+
+### load r1 #0
+### load r2 #1
+### add r3 r2 r1
+### store r3 #3
